@@ -6,8 +6,7 @@ Contains data to indicate all the variables and summaries calculations and any o
  *activity: The one of the 6 activities being performed. The values belong to the **factor** class
  *subject: The ID of the subject, ranging from 1-30. The values belong to the **Integer** class.
 
-### The following are the functions, the values of which are recorded. All the values of the following, belong to the 
-### **numeric** class.
+### The following are the functions, the values of which are recorded. All the values of the following, belong to the **numeric** class.
 
  *tBodyAcc-mean()-X
  *tBodyAcc-mean()-Y
